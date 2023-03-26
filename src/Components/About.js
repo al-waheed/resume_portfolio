@@ -14,7 +14,7 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
+    const certificationLink = this.props.data.certificationLink;
 
     return (
       <section id="about">
@@ -24,7 +24,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={profilepic}
-                alt="Nordic Giant Profile Pic"
+                alt="Morenikeji Profile Pic"
               />
             </div>
             <div className="nine columns main-col">
@@ -50,8 +50,8 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
+                    <a href={certificationLink} className="button">
+                      <i className="fa fa-book"></i>Certification Link
                     </a>
                   </p>
                 </div>

@@ -1,184 +1,157 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Morenikeji Ajisegiri",
+    "description":"I am a skilled, innovative, and motivated Frontend Developer with years of proven expertise in applying modern technologies such as HTML/CSS, React, Redux, Webflow and S.E.O, as well as utilizing best practices to improve organizational effectiveness and maximize productivity.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"An innovative and inventive frontend engineer skilled in open-source web development technologies, including HTML5, CSS3/SCSS, Tailwind CSS, JavaScript, React, Redux/Context API, Webflow, and more. Experience in developing, maintaining functional dynamic visually appealing websites and applications for a variety of industries and organizations.",
+    "contactmessage":"Contact / Hire Me",
+    "email": "ajisegirimorenikeji@gmail.com",
+    "phone": "(234)810-034-7578",
+    "github":"https://github.com/al-waheed",
+    "resumeDownload":"/images/Morenikeji CV.pdf",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Shogunle, Ladipo Bus-stop",
+      "city":"Ladipo, Ikeja",
+      "state":"Lagos State",
+      "zip": "100211"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "certificationLink":"https://rb.gy/so1ke6",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/kejiajisegiri",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://www.twitter.com/kejiajisegiri",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/morenikejiaji/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/kejiajisegiri",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/al-waheed",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Polytechnic?",
+        "degree":"Higher National Diploma in Surveying and Geo-informatics",
+        "graduated":"2013 - 2017"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Cursa - E-learning",
+        "degree":"Web Development Course, React Course",
+        "graduated":"2020",
+        "description":"HTML/CSS, JAVASCRIPT AND REACT."
+      },
+      {
+        "school":"OpenClassRooms - E-learning",
+        "degree":"Ensure Website Meets technical SEO Requirements Course",
+        "graduated":"2023",
+        "description":"SEARCH ENGINE OPTIMIZATION."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"FlexFinance",
+        "title":"Web Developer",
+        "years":"January 2022 - Present",
+        "description":"Successfully built, maintained, and deployed a website, blog, and auto-response form, Improving and managing the website's , and populating content to blog, and continuously upgrading the blog and web application."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"OneVenn",
+        "title":"Frontend Developer",
+        "years":"July 2021 - December 2021",
+        "description":"Collaborated effectively with cross-functional teams, to consistently improve the functionality and user-friendliness of an event management web application."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"Javascript",
+        "level":"70%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"HTML",
+        "level":"85%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"65%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
+        "name":"CSS/Tailwind CSS",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"Redux/Context Api",
         "level":"50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Gulp",
+        "level":"50%"
+      },
+      {
+        "name":"Webflow",
+        "level":"60%"
+      },
+      {
+        "name":"Figma",
+        "level":"50%"
+      },
+      {
+        "name":"SEO",
+        "level":"60%"
+      },
+      {
+        "name":"Google Analytics",
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Spender",
+        "category":"Spender is a website that allows you to send unlimited transactions without getting charged any fees.(No Funtionality, Just A Website)",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://spender.netlify.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"ArenaDrip",
+        "category":"ArenaDrip is an E-commerce web app that facilitate online transactions of goods and services through means of the transfer of information and funds over the internet.",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://arenadrip.netlify.app/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Weather Info",
+        "category":"WeatherInfo is a very simple App, where the user can check the weather condition by searching for any name of a place, state, town, city or country.",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://weathersinfo.netlify.app/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Currus",
+        "category":"car renter app",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://currus.netlify.app/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"The Movies",
+        "category":"The movie is search engine for your preferred movies.",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://themovies.netlify.app/"
       }
     ]
   }
