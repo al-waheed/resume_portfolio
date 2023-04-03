@@ -1,31 +1,55 @@
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { Fade, Slide } from "react-reveal";
+import Swal from 'sweetalert2/dist/sweetalert2.js'
+// import 'sweetalert2/src/sweetalert2.scss'
 // YOUR_TEMPLATE_ID YOUR_PUBLIC_KEY
 const Contact = (props) => {
 
   const form = useRef();
   if (!props.data) return null;
-  const { street, city, state, zip } = props.data.address
-  const name = props.data.name;
-  const phone = props.data.phone;
-  const message = props.data.contactmessage;
+  const { street, city, state, zip } = props.data.address;
+  const { name } = props.data.name;
+  const { phone } = props.data.phone;
+  const { message } = props.data.contactmessage;
+  
+const showAlert = () =>{
+  Swal.fire({
+    position: 'top-end',
+    icon: 'success',
+    title: 'Your message was sent, Thank you!',
+    showConfirmButton: false,
+    timer: 1500
+  })
+  }
+
+  const showAlertError = () =>{
+    Swal.fire({
+      position: 'top-end',
+      icon: 'error',
+      title: 'Error message',
+      showConfirmButton: false,
+      timer: 1500
+    })
+    }
 
   const sendEmail = (e) => {
     e.preventDefault();
   
     emailjs.sendForm(
-        "Yservice_62qfd8i",
+        "service_62qfd8i",
         "template_0qchi2g",
         form.current,
-        "l3KYhWsAmW0gpk1g6"
+        "64_WGqpoT2clEk-mQ"
       )
       .then((result) => {
           console.log(result.text);
           console.log("message sent")
+          showAlert(result.text)
         },
         (error) => {
           console.log(error.text);
+          showAlertError(error.text)
         }
       );
   };
@@ -100,7 +124,7 @@ const Contact = (props) => {
                 </div>
 
                 <div>
-                  <button className="submit" value="Send">
+                  <button type="submit" className="submit" value="Send">
                     Submit
                   </button>
                   <span id="image-loader">
