@@ -142,10 +142,10 @@
         "url":"https://weathersinfo.netlify.app/"
       },
       {
-        "title":"Note App",
-        "category":"Our note app simplifies your life by providing an easy way to keep track of your thoughts, ideas, and reminders.",
-        "image":"04.png",
-        "url":"https://holynote.netlify.app/"
+        "title":"Grover groceries",
+        "category":"Grover is an E-commerce Shop for fresh produce and to track your orders.",
+        "image":"06.png",
+        "url":"https://grovers.netlify.app/"
       },
       {
         "title":"The Movies",
