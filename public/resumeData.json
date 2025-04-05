@@ -1,157 +1,149 @@
 {
   "main": {
-    "name":"Morenikeji Ajisegiri",
-    "description":"I am a skilled, innovative, and motivated Frontend Developer with years of proven expertise in applying modern technologies such as HTML/CSS, React, Redux, Webflow and S.E.O, as well as utilizing best practices to improve organizational effectiveness and maximize productivity.",
-    "image":"profilepic.jpg",
-    "bio":"An innovative and inventive frontend engineer skilled in open-source web development technologies, including HTML5, CSS3/SCSS, Tailwind CSS, JavaScript, React, Redux/Context API, Webflow, and more. Experience in developing, maintaining functional dynamic visually appealing websites and applications for a variety of industries and organizations.",
-    "contactmessage":"Contact / Hire Me",
+    "name": "Morenikeji Ajisegiri",
+    "description": "I am a skilled, innovative, and motivated Frontend Developer with years of proven expertise in applying modern technologies such as HTML/CSS, React, Redux, Webflow and S.E.O, as well as utilizing best practices to improve organizational effectiveness and maximize productivity.",
+    "image": "profilepic.jpg",
+    "bio": "Creative and detail-oriented Frontend Developer with years of experience designing and developing scalable, responsive web applications. Proficient in modern technologies including React, Next, Redux, and Tailwind CSS. Skilled in optimizing performance, enhancing user experience, and collaborating in Agile teams to deliver impactful solutions for fintech and other industries.",
+    "contactmessage": "Contact / Hire Me",
     "email": "ajisegirimorenikeji@gmail.com",
-    "phone": "(234)810-034-7578",
-    "github":"https://github.com/al-waheed",
-    "resumeDownload":"/images/Morenikeji CV.pdf",
-    "address":{
-      "street":"Shogunle, Ladipo Bus-stop",
-      "city":"Ladipo, Ikeja",
-      "state":"Lagos State",
+    "phone": "(234) 810-034-7578",
+    "github": "https://github.com/al-waheed",
+    "resumeDownload": "/images/Morenikeji-cv.pdf",
+    "address": {
+      "street": "Shogunle, Ladipo Bus-stop",
+      "city": "Ladipo, Ikeja",
+      "state": "Lagos State",
       "zip": "100211"
     },
-    "certificationLink":"https://rb.gy/so1ke6",
-    "social":[
+    "certificationLink": "https://rb.gy/so1ke6",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/kejiajisegiri",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/kejiajisegiri",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://www.twitter.com/kejiajisegiri",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://www.twitter.com/kejiajisegiri",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/morenikejiaji/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/morenikejiaji/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/kejiajisegiri",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/kejiajisegiri",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/al-waheed",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/al-waheed",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"Polytechnic?",
-        "degree":"Higher National Diploma in Surveying and Geo-informatics",
-        "graduated":"2013 - 2017"
+        "school": "Polytechnic?",
+        "degree": "Higher National Diploma in Surveying and Geo-informatics",
+        "graduated": "2013 - 2017"
       },
       {
-        "school":"Cursa - E-learning",
-        "degree":"Web Development Course, React Course",
-        "graduated":"2020",
-        "description":"HTML/CSS, JAVASCRIPT AND REACT."
+        "school": "Cursa - E-learning",
+        "degree": "Web Development Course, React Course",
+        "graduated": "2020",
+        "description": "HTML/CSS, JAVASCRIPT AND REACT."
       },
       {
-        "school":"OpenClassRooms - E-learning",
-        "degree":"Ensure Website Meets technical SEO Requirements Course",
-        "graduated":"2023",
-        "description":"SEARCH ENGINE OPTIMIZATION."
+        "school": "OpenClassRooms - E-learning",
+        "degree": "Ensure Website Meets technical SEO Requirements Course",
+        "graduated": "2023",
+        "description": "SEARCH ENGINE OPTIMIZATION."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"FlexFinance",
-        "title":"Web Developer",
-        "years":"January 2022 - Present",
-        "description":"Successfully built, maintained, and deployed a website, blog, and auto-response form, Improving and managing the website's , and populating content to blog, and continuously upgrading the blog and web application."
+        "company": "FlexFinance",
+        "title": "Frontend Developer",
+        "years": "January 2022 - Present",
+        "description": "Successfully built, maintained, and deployed a website, blog, and auto-response form, Improving and managing the website's , and populating content to blog, and continuously upgrading the blog and web application."
       },
       {
-        "company":"OneVenn",
-        "title":"Frontend Developer",
-        "years":"July 2021 - December 2021",
-        "description":"Collaborated effectively with cross-functional teams, to consistently improve the functionality and user-friendliness of an event management web application."
+        "company": "OneVenn",
+        "title": "Frontend Developer",
+        "years": "July 2021 - December 2021",
+        "description": "Collaborated effectively with cross-functional teams, to consistently improve the functionality and user-friendliness of an event management web application."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Javascript",
-        "level":"70%"
+        "name": "Javascript",
+        "level": "70%"
       },
       {
-        "name":"HTML",
-        "level":"85%"
+        "name": "HTML",
+        "level": "85%"
       },
       {
-        "name":"ReactJs",
-        "level":"65%"
+        "name": "ReactJs",
+        "level": "65%"
       },
       {
-        "name":"CSS/Tailwind CSS",
-        "level":"80%"
+        "name": "CSS/Tailwind CSS",
+        "level": "80%"
       },
       {
-        "name":"Redux/Context Api",
-        "level":"50%"
+        "name": "Redux/Context Api",
+        "level": "50%"
       },
       {
-        "name":"Gulp",
-        "level":"50%"
+        "name": "Webflow",
+        "level": "60%"
       },
       {
-        "name":"Webflow",
-        "level":"60%"
+        "name": "SEO",
+        "level": "60%"
       },
       {
-        "name":"Figma",
-        "level":"50%"
-      },
-      {
-        "name":"SEO",
-        "level":"60%"
-      },
-      {
-        "name":"Google Analytics",
-        "level":"70%"
+        "name": "Google Analytics",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Spender",
-        "category":"Spender is a website that allows you to send unlimited transactions without getting charged any fees.(No Funtionality, Just A Website)",
-        "image":"01.jpg",
-        "url":"https://spender.netlify.app/"
+        "title": "Blog Hyper",
+        "category": "Blog Hyper share Your Story with the World by creating, editing, and sharing beautiful blog posts, adding comments, expressing your thoughts, and connecting with readers around the globe.",
+        "image": "01.png",
+        "url": "https://bloghyper.netlify.app/"
       },
       {
-        "title":"ArenaDrip",
-        "category":"ArenaDrip is an E-commerce web app that facilitate online transactions of goods and services through means of the transfer of information and funds over the internet.",
-        "image":"02.jpg",
-        "url":"https://arenadrip.netlify.app/"
+        "title": "ArenaDrip",
+        "category": "ArenaDrip is an E-commerce web app that facilitate online transactions of goods and services through means of the transfer of information and funds over the internet.",
+        "image": "02.jpg",
+        "url": "https://arenadrip.netlify.app/"
       },
       {
-        "title":"Weather Info",
-        "category":"WeatherInfo is a very simple App, where the user can check the weather condition by searching for any name of a place, state, town, city or country.",
-        "image":"03.jpg",
-        "url":"https://weathersinfo.netlify.app/"
+        "title": "Document manager",
+        "category": "Document manager is a powerful solution for managing documents and creating professional invoices in one place.",
+        "image": "05.png",
+        "url": "https://documentsave.netlify.app/"
       },
       {
-        "title":"Grover groceries",
-        "category":"Grover is an E-commerce Shop for fresh produce and to track your orders.",
-        "image":"06.png",
-        "url":"https://grovers.vercel.app/"
+        "title": "Weather Info",
+        "category": "Weather Info is a simple app that helps you stay updated with real-time weather conditions anywhere in the world.",
+        "image": "03.jpg",
+        "url": "https://weathersinfo.netlify.app/"
       },
       {
-        "title":"The Movies",
-        "category":"The movie is search engine for your preferred movies.",
-        "image":"05.jpg",
-        "url":"https://themovies.netlify.app/"
+        "title": "Grover groceries",
+        "category": "Grover is an E-commerce Shop for fresh produce and to track your orders.",
+        "image": "06.png",
+        "url": "https://grovers.vercel.app/"
       }
     ]
   }
